@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T09:15:24.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" version="21.7.5" etag="Roq6N-031RB2rcwNxMwK" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-15T09:30:16.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="lq9vxYQEXOm3lN9lA8Fl" version="21.7.5" type="github">
   <diagram name="Strona-1" id="KSi2XhdsEUJmSafzNyrR">
-    <mxGraphModel>
+    <mxGraphModel dx="1271" dy="730" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BJN5SCSALyqVHM9Buqgn-1" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;PIES&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;rasa: pitbul&lt;br&gt;imie: pimpuś&lt;br&gt;wiek: 57 lat żółwich&lt;br&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;overflow=fill;strokeWidth=4;perimeterSpacing=3;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#000000;shadow=1;glass=0;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="190" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
